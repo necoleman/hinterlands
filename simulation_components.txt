@@ -1,0 +1,89 @@
+===== NEXT SIMULATION STEP =====
+Current time: 2022-05-01 10:00:00
+Simulation step: 6
+Memory use: 243.890625M
+Paused? False
+aerosol_asymmetry_parameter                                                     dimensionless
+aerosol_optical_depth_at_55_micron                                              dimensionless
+air_pressure                                                                    Pa
+air_pressure_on_interface_levels                                                Pa
+air_temperature                                                                 degK
+air_temperature_tendency_from_convection                                        degK day^-1
+air_temperature_tendency_from_longwave                                          degK day^-1
+air_temperature_tendency_from_longwave_assuming_clear_sky                       degK day^-1
+air_temperature_tendency_from_shortwave                                         degK day^-1
+air_temperature_tendency_from_shortwave_assuming_clear_sky                      degK day^-1
+area_type                                                                       dimensionless
+atmosphere_convective_available_potential_energy                                J kg^-1
+atmosphere_hybrid_sigma_pressure_a_coordinate_on_interface_levels               dimensionless
+atmosphere_hybrid_sigma_pressure_b_coordinate_on_interface_levels               dimensionless
+atmosphere_relative_vorticity                                                   s^-1
+cloud_area_fraction_in_atmosphere_layer                                         dimensionless
+cloud_asymmetry_parameter                                                       dimensionless
+cloud_base_mass_flux                                                            kg m^-2 s^-1
+cloud_forward_scattering_fraction                                               dimensionless
+cloud_ice_particle_size                                                         micrometer
+cloud_water_droplet_radius                                                      micrometer
+convective_downdraft_specific_humidity_scale                                    kg/kg
+convective_downdraft_temperature_scale                                          degK
+convective_downdraft_velocity_scale                                             m s^-1
+convective_precipitation_rate                                                   mm day^-1
+convective_state                                                                dimensionless
+counter                                                                         no units/wrong type
+depth_of_slab_surface                                                           m
+divergence_of_wind                                                              s^-1
+downwelling_longwave_flux_in_air                                                W m^-2
+downwelling_longwave_flux_in_air_assuming_clear_sky                             W m^-2
+downwelling_shortwave_flux_in_air                                               W m^-2
+downwelling_shortwave_flux_in_air_assuming_clear_sky                            W m^-2
+eastward_wind                                                                   m s^-1
+flux_adjustment_for_earth_sun_distance                                          dimensionless
+heat_capacity_of_soil                                                           J kg^-1 degK^-1
+heat_flux_into_sea_water_due_to_sea_ice                                         W m^-2
+height_on_ice_interface_levels                                                  m
+latitude                                                                        degrees_north
+longitude                                                                       degrees_east
+longwave_optical_thickness_due_to_aerosol                                       dimensionless
+longwave_optical_thickness_due_to_cloud                                         dimensionless
+mass_content_of_cloud_ice_in_atmosphere_layer                                   kg m^-2
+mass_content_of_cloud_liquid_water_in_atmosphere_layer                          kg m^-2
+mole_fraction_of_carbon_dioxide_in_air                                          dimensionless
+mole_fraction_of_carbon_tetrachloride_in_air                                    dimensionless
+mole_fraction_of_cfc11_in_air                                                   dimensionless
+mole_fraction_of_cfc12_in_air                                                   dimensionless
+mole_fraction_of_cfc22_in_air                                                   dimensionless
+mole_fraction_of_methane_in_air                                                 dimensionless
+mole_fraction_of_nitrous_oxide_in_air                                           dimensionless
+mole_fraction_of_oxygen_in_air                                                  dimensionless
+mole_fraction_of_ozone_in_air                                                   mole/mole
+northward_wind                                                                  m s^-1
+ocean_mixed_layer_thickness                                                     m
+sea_water_density                                                               kg m^-3
+shortwave_optical_thickness_due_to_aerosol                                      dimensionless
+shortwave_optical_thickness_due_to_cloud                                        dimensionless
+single_scattering_albedo_due_to_aerosol                                         dimensionless
+single_scattering_albedo_due_to_cloud                                           dimensionless
+soil_layer_thickness                                                            m
+solar_cycle_fraction                                                            dimensionless
+specific_humidity                                                               kg/kg
+stratiform_precipitation_rate                                                   m s^-1
+surface_air_pressure                                                            Pa
+surface_albedo_for_diffuse_near_infrared                                        dimensionless
+surface_albedo_for_diffuse_shortwave                                            dimensionless
+surface_albedo_for_direct_near_infrared                                         dimensionless
+surface_albedo_for_direct_shortwave                                             dimensionless
+surface_geopotential                                                            m^2 s^-2
+surface_longwave_emissivity                                                     dimensionless
+surface_material_density                                                        kg m^-3
+surface_specific_humidity                                                       kg/kg
+surface_temperature                                                             degK
+surface_thermal_capacity                                                        J kg^-1 degK^-1
+surface_upward_latent_heat_flux                                                 W m^-2
+surface_upward_sensible_heat_flux                                               W m^-2
+time                                                                            no units/wrong type
+upward_heat_flux_at_ground_level_in_soil                                        W m^-2
+upwelling_longwave_flux_in_air                                                  W m^-2
+upwelling_longwave_flux_in_air_assuming_clear_sky                               W m^-2
+upwelling_shortwave_flux_in_air                                                 W m^-2
+upwelling_shortwave_flux_in_air_assuming_clear_sky                              W m^-2
+zenith_angle                                                                    radians
